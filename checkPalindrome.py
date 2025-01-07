@@ -1,4 +1,4 @@
-str="MOM"
+str="MOM"   #Check Palindrome
 revStr=""
 for ch in str:
     revStr=ch+revStr
