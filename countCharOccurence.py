@@ -1,3 +1,4 @@
+# Check character ocurrence
 new_str = "geeksforgeeks"
 char_count={}
 for char in new_str:
