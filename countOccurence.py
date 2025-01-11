@@ -1,3 +1,4 @@
+# Count occurence of character in string
 str="My name is Python Programming"
 strLow=str.lower()
 target='m'
