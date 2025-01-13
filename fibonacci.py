@@ -1,3 +1,4 @@
+#Check fibonacci series
 nterms = int(input("How many terms? "))
 n1=0
 n2=1
