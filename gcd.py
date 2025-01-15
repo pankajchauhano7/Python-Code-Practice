@@ -1,3 +1,4 @@
+#Find greatest common division
 def gcd(a,b):
     smallest=min(a,b)
     for i in range(smallest,0,-1):
