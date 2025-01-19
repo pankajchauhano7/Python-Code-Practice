@@ -1,3 +1,4 @@
+#Get string from mixed list
 a = [(1, 2, "Pankaj", "Sayan"), (1, 2), ("Mukul", "Ravi"), ("Achin", 3, 4, "Anku")]
 new_a = []
 for i in a:
