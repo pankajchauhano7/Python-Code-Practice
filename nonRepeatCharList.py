@@ -1,3 +1,4 @@
+#Find Non-repeating character from list of string
 str=["swiss","abcabcd","abcd"]
 non_repchar=[]
 char_count={}
