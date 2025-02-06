@@ -1,3 +1,4 @@
+#Count occurence of white space in string
 str="Welcome to python programming"
 strLow=str.lower()
 count=0
