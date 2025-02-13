@@ -1,3 +1,4 @@
+# Find Unique character from list of String
 from collections import Counter
 str=['swiss','abcabcd','abcd']
 char_count=Counter(" ".join(str))
