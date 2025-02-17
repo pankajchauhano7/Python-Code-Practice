@@ -1,4 +1,5 @@
-arr=[64, 34, 25, 12, 22, 11, 90] # Bubble Sort
+# Bubble Sort
+arr=[64, 34, 25, 12, 22, 11, 90] 
 
 for i in range(0,len(arr)):
     for j in range(0,len(arr)-1):
