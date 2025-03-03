@@ -1,3 +1,4 @@
+#Check the List contain Duplicate or not
 def containsDuplicate(nums):
     hashset = set()
     for n in nums:
