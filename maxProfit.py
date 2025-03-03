@@ -1,4 +1,4 @@
-# Best Time to Buy and Sell Stock
+# Best Time to Buy and Sell Stocks
 def maxProfit(prices):
     l,r = 0,1
     maxP=0
