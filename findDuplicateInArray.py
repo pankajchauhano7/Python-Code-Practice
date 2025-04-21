@@ -8,6 +8,6 @@ for dup in arr:
     else:
         seen.add(dup)
 
-print("Duplicate in list are : "+str(seen))
+print("Duplicate in list are : "+str(duplicate))
         
         
