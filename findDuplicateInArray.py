@@ -1,4 +1,4 @@
-# Find Duplicate in array
+# find Duplicate in array
 arr=[1,2,3,1,2,4]
 seen=set()
 duplicate=[]
