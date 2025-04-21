@@ -1,3 +1,4 @@
+#Count word occurrence in string
 str= "This cakE is tasty. I will bake this CaKe again , for everyone."
 new_str = str.upper()
 words = new_str.split()
