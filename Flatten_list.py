@@ -10,6 +10,5 @@ def flatten(a):
             new_a.append(i)
     return new_a
 
-
 print(flatten(a))
 
