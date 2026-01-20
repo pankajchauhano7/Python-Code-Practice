@@ -1,5 +1,4 @@
 # Function to find the maximum element and return it along with all subsequent elements
-
 def max_with_subsequents(arr):
     max_val = arr[0]
     max_index = 0
@@ -20,5 +19,5 @@ def max_with_subsequents(arr):
     print(result)
 
 # Example
-arr = [12, 13, 2, 5, 6, 8, 9]
+arr = [12, 13, 2, 5, 6, 8, 9,10]
 max_with_subsequents(arr)
