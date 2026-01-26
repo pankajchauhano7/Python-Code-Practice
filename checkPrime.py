@@ -1,14 +1,18 @@
 #Check Prime
-def Prime(num): 
-    if num <= 1:
+def is_prime(n):
+    if n <= 1:
         return False
-    for i in range(2,int(num**0.5)+1):
-        if num%i == 0:
+
+    i = 2
+    while i * i <= n:
+        if n % i == 0:
             return False
+        i += 1
+
     return True
     
-num=4
-if Prime(num):
+num=633
+if is_prime(num):
     print(f"{num} is a Prime Number.")
 else:
     print(f"{num} is not a Prime Number.")
